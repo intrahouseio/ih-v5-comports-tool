@@ -3,5 +3,5 @@
     "description":"Detect com ports",
     "comment":"",
     "cross":true,
-	"version":"5.0.3"
+	"version":"5.0.4"
 }
